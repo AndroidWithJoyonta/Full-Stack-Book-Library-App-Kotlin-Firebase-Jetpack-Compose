@@ -1,3 +1,16 @@
+
+<h6>
+  - Building full stack app<br>
+  - Design a modern UI using Jetpack Compose<br>
+  - Implement Firebase Realtime Database<br>
+  - Clean Code Architecture: MVVM, Kotlin, Jetpack Compose, Android Studio<br>
+  - Third-party library integration<br>
+  - Use Realtime Database for book storage and retrieval<br>
+  - Allow users to add, update, and delete books<br>
+  - Fully functional book library app
+</h6>
+
+
 <h2>📱 App Screenshots</h2>
 
 <table>
